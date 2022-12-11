@@ -1,0 +1,2 @@
+2,Tea pot,A blue ceramic tea pot,Ceramic,25.99,10
+32,Cermic Mug,A blue Creamic mug,Ceramic,13.9,20
